@@ -8,7 +8,7 @@ def readme():
 
 setup(
   name='django_server_testing',
-  version='3.4.0',
+  version='3.6.0',
   author='SODT',
   author_email='svsharygin@icloud.com',
   description='',
