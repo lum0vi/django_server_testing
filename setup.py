@@ -8,7 +8,7 @@ def readme():
 
 setup(
   name='django_server_testing',
-  version='1.0.0',
+  version='3.1.0',
   author='SODT',
   author_email='svsharygin@icloud.com',
   description='',
@@ -20,7 +20,7 @@ setup(
   classifiers=[
     'Programming Language :: Python :: 3.11',
   ],
-  keywords='files speedfiles ',
+  keywords='files speedfiles',
   project_urls={
     'GitHub': 'https://github.com/lum0vi/django_server_testing'
   },
