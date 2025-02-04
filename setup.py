@@ -14,17 +14,15 @@ setup(
   description='',
   long_description=readme(),
   long_description_content_type='',
-  url='your_url',
+  url='https://github.com/lum0vi/django_server_testing',
   packages=find_packages(),
   install_requires=['requests>=2.25.1'],
   classifiers=[
     'Programming Language :: Python :: 3.11',
-    'License :: OSI Approved :: MIT License',
-    'Operating System :: OS Independent'
   ],
   keywords='files speedfiles ',
   project_urls={
-    'GitHub': 'your_github'
+    'GitHub': 'https://github.com/lum0vi/django_server_testing'
   },
   python_requires='>=3.6'
 )
